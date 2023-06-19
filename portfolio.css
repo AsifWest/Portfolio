@@ -565,6 +565,7 @@ section .title::after{
     margin: 10px 0 7px 0;
   }
   .teams .card img {
+    max-width: 100%;
     height: 150px;
     width: 150px;
     object-fit: cover;
