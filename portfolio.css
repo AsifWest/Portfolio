@@ -296,7 +296,7 @@ section .title::after{
 } */
 
 .about .title::after{
-    content: "";
+    content: "Ipseity.";
 }
 .about .about-content .left{
     width: 45%;
@@ -607,7 +607,7 @@ section .title::after{
 }
 
 .contact .title::after{
-    content: "Via Email ";
+    content: "Email Me ";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
